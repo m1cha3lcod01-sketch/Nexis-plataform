@@ -1,0 +1,23 @@
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Variables privadas
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Editores
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
